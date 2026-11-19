@@ -1,0 +1,21 @@
+{
+  "circuit": {
+    "bytes": 3010,
+    "sha256": "a64783f8873df0c9dda7f7e44607e076f0b2af94c9cd609e4619e4b0fbcf2e02"
+  },
+  "compiler": {
+    "binary": {
+      "bytes": 15129728,
+      "sha256": "f3958483caaaa0cdd3912df5049e2e635eab4d09b9a66807be9633d547859f12"
+    },
+    "source_commit": "57b18f68794189753964bfb6e18e64385fed9c2c",
+    "version": "2.1.6"
+  },
+  "project_commit": "d3df88d9a99384e815f1c2b8b7e8a527fb238550",
+  "project_path": "zk/v3-groth16/circuits/sign_petition.circom",
+  "separately_obtained_dependency": {
+    "integrity": "sha512-O7NQ8OS+J4eshBuoy36z/TwQU0YHw8W3zxZcs4hVwpEll3e4hDm3mgkIPqItN8FDeLEKZFK3YeT/+k8TiLF3/A==",
+    "resolved": "https://registry.npmjs.org/circomlib/-/circomlib-2.0.5.tgz",
+    "version": "2.0.5"
+  }
+}
