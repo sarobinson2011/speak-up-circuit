@@ -8,10 +8,8 @@ Read the accepted G4 definition candidate in the [Privacy Engine](https://github
 
 ## Tip jar
 
-I’m building this to help people. If it’s helped you, taught you something, or you just like what I’m doing, then please feel free to chuck a little ETH in the jar.  Many thanks.
+If this helped, a little something in the jar is always welcome. So is sharing it or building on it. Cheers 👍
 
-Using it, sharing it, or helping improve it is also appreciated. 👍
-
-Native ETH on Ethereum mainnet, Base mainnet or Arbitrum One.
+Accepts ETH on EVM chains.
 
 `0x8cA41B152eDA1C8c4F9df9AF98E07888EDc17416`
